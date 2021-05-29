@@ -126,19 +126,19 @@ as we will see later in the class, this expression describes a 2-dimensional neu
 
 $$
 f(x) = \frac{1}{x} 
-\hspace{1in} \rightarrow \hspace{1in} 
+\hspace{0.15in} \rightarrow \hspace{0.15in} 
 \frac{df}{dx} = -1/x^2 
-\\\\
+\\
 f_c(x) = c + x
-\hspace{1in} \rightarrow \hspace{1in} 
+\hspace{0.15in} \rightarrow \hspace{0.15in} 
 \frac{df}{dx} = 1 
-\\\\
+\\
 f(x) = e^x
-\hspace{1in} \rightarrow \hspace{1in} 
+\hspace{0.15in} \rightarrow \hspace{0.15in} 
 \frac{df}{dx} = e^x
-\\\\
+\\
 f_a(x) = ax
-\hspace{1in} \rightarrow \hspace{1in} 
+\hspace{0.15in} \rightarrow \hspace{0.15in} 
 \frac{df}{dx} = a
 $$
 

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2c75fdbf72bc6de7",
+        "id": "46ef82e49bd1177c",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,8 +82,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c75fdbf72bc6de7",
+  "active": "46ef82e49bd1177c",
   "lastOpenFiles": [
+    "optimization-2.md",
+    "optimization-1.md",
+    "assignments/2016/assignment1.md",
+    "linear-classify.md",
+    "classification.md",
     "neural-networks-1.md"
   ]
 }
